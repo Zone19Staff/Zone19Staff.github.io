@@ -1,0 +1,6 @@
+.bottom {
+    background-color: rgb(50, 50, 50);
+    border-top: 3px solid grey;
+    height: 40px;
+    box-shadow: 0 0 10px grey;
+}
